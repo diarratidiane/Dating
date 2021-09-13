@@ -1,0 +1,2 @@
+- name: Upload Android Release to Play Store
+  uses: r0adkll/upload-google-play@v1
